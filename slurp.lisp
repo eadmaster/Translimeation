@@ -1,3 +1,7 @@
+#!/usr/bin/sbcl --script
+
+(load "~/quicklisp/setup.lisp")
+
 (eval-when (:compile-toplevel :load-toplevel :execute)
   (ql:quickload '(cl-ppcre skippy alexandria) :silent t))
 

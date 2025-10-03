@@ -1,4 +1,3 @@
-#!/usr/bin/sbcl --script
 
 (load "~/quicklisp/setup.lisp")
 
@@ -20,7 +19,7 @@
 
 (defparameter txt nil)
 (defun load-texts ()
-  (setf txt (read-all-text-utf "text-dumps/after-translate2.txt")))
+  (setf txt (read-all-text-utf "text-dumps/after-translate4.lisp")))
 
 (defparameter pointer-table-pos '(#x71174c #x713CC4))
 (defparameter *letter-sizes*
@@ -238,9 +237,9 @@
                '(#x05)
                (encode-string inv-translation-table inv-translation-table-small (cdr string))))
       ((equal (caar string) 'color)
-       (list* #x0c
-              (cadar string)
-              (encode-string inv-translation-table inv-translation-table-small (cdr string))))
+       (append (encode-str " " inv-translation-table) ; Encoded space before
+               (list #x0c (cadar string))
+               (encode-string inv-translation-table inv-translation-table-small (cdr string))))
       ((equal (caar string) 'player-name)
        (cons #x0e (encode-string inv-translation-table inv-translation-table-small (cdr string))))
       ((equal (caar string) 'wait-for-a)
@@ -312,3 +311,7 @@
 
 (defun build-exe ()
   (sb-ext:save-lisp-and-die "injector" :toplevel #'main :executable t :compression 9))
+
+
+;; Explicitly call the function to run it when the file is loaded
+(main)

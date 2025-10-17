@@ -21,17 +21,18 @@
 おババ＞
 メラゾマ＞Kafrizzle
 バブルのやま＞Bubhill (this is one of the sumo wrestler slimes)
-オババ＞
+オババ＞ Obaba?
 ミイホンパパ＞Mr. Hooly
 ミイホンのママ＞Mrs. Hooly
-スラ-リン＞_____ VIII
+スラ-リン＞_____ Slarin
+スラ-リン8世＞_____ Slarin VIII
 ピロ＞Sacks (why??? this is a Jinkster right-hand to ムーン Moon)
 コ-チ＞Coach
 スッカ-のオニ＞Flanatic (?), Flanatic Baller (?) 
 スラネット＞GooNETte
 
 
-コンペ-＞           (there's a pun with "kanpai" (cheers) here)
+コンペ-＞           Kanpai?, Compe? (there's a pun with "kanpai" (cheers) here)
 ガブリエル＞Goobriel
 
 すっとび調査団＞Goonin
@@ -52,8 +53,8 @@
 
 メラゾマ＞Kafrizz
 
-ナイスト＞ (port-manteau of ナイスストライク "nice strike" sort of like "famicom")
-ナイポイ＞ (port-manteau of ナイスポイント "nice strike points")
+ナイスト＞ Nice-t (port-manteau of ナイスストライク "nice strike" sort of like "famicom")
+ナイポイ＞ Nai-Poi (port-manteau of ナイスポイント "nice strike points")
 
 スラしょうりゅう＞Slashouryuu = Shoryuflan = street fighter reference (this is probably a debug/hidden name)
 スラフォード＞Flanford (this is also probably a debug/hidden name)
@@ -78,7 +79,7 @@
 スラックス＞       (Slax?)
 スラきち＞         (Sli(me) + kichi)
 おスラ＞           (Honorific slime)
-スラエル＞         (Slirael)
+スラエル＞         Slael, (Slirael)
 ツリッキ-＞        (Treeky, Tree + kki)
 グレン＞Goolen
 ぶちゴロウ＞       (mottle slime + japanese name ending)
@@ -115,7 +116,7 @@
 バブル-ノ＞        (Bubbloono)
 スラダ-ク＞        (Sli(me) dark)
 オイスラ-＞        (Heasli(me)r)
-メテお＞           (Mete + o)
+メテお＞           Meteor (Mete + o) https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Meteor%20Slime&pickedidx=3979
 マダラン＞         (Madaran)
 スラボックル＞     (Sli(me) Bokkle)
 シルバ＞           (Silver)
@@ -149,10 +150,10 @@
 モエ-ル＞Fiery
 ヒエ-ル＞Freezy
 ドラハルトJR＞                (lit. Drahart JR, but I think "Draku Jr" makes sense because of Drakulard)
-ギガお＞                      (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)
+ギガお＞                      Gigaa (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)  https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Gigaa&pickedidx=5745
 ゴレムズ＞                    (lit. Golemz, "male" Golem robot piloted by a Platypunk)
-バットン＞                    (lit. "Bat"ton pun on Bat for vampire bat.)
-ゴれみ＞                      (lit. Golemi, "female" Golem in love with Golemz)
+バットン＞                    Button (lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
+ゴれみ＞                      Golemi (lit. Golemi, "female" Golem in love with Golemz)
 ロ-ドン＞                     (lit. Rordon)
 
 

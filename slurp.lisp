@@ -19,7 +19,7 @@
 
 (defparameter txt nil)
 (defun load-texts ()
-  (setf txt (read-all-text-utf "text-dumps/after-translate4.lisp")))
+  (setf txt (read-all-text-utf "text-dumps/after-translate2.txt")))
 
 (defparameter pointer-table-pos '(#x71174c #x713CC4))
 (defparameter *letter-sizes*

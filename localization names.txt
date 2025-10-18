@@ -21,7 +21,7 @@
 おババ＞
 メラゾマ＞Kafrizzle
 バブルのやま＞Bubhill (this is one of the sumo wrestler slimes)
-オババ＞ Obaba?
+オババ＞ Baba?, Obaba?
 ミイホンパパ＞Mr. Hooly
 ミイホンのママ＞Mrs. Hooly
 スラ-リン＞_____ Slarin
@@ -59,7 +59,7 @@
 スラしょうりゅう＞Slashouryuu = Shoryuflan = street fighter reference (this is probably a debug/hidden name)
 スラフォード＞Flanford (this is also probably a debug/hidden name)
 
-ス-ラ＞            (Sliiiii(me))
+ス-ラ＞            Surah (Sliiiii(me))
 スラック＞         (Sli(me) kku, Slack, Slick)
 スラゾ-＞          (Sli(me) + zor or japanese name ending)
 バブすけ＞         (Bubble + japanese name ending)
@@ -147,14 +147,14 @@
 
 
 
-モエ-ル＞Fiery
-ヒエ-ル＞Freezy
-ドラハルトJR＞                (lit. Drahart JR, but I think "Draku Jr" makes sense because of Drakulard)
+モエ-ル＞Fiery (lit. Moeru)
+ヒエ-ル＞Freezy (lit. Hieru)
+ドラハルトJR＞       Draku Jr  (lit. Drahart JR, but I think "Draku Jr" makes sense because of Drakulard)
 ギガお＞                      Gigaa (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)  https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Gigaa&pickedidx=5745
-ゴレムズ＞                    (lit. Golemz, "male" Golem robot piloted by a Platypunk)
-バットン＞                    Button (lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
+ゴレムズ＞           Golemz   (lit. Golemz, "male" Golem robot piloted by a Platypunk)
+バットン＞                    Batton, Vladiator? (lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
 ゴれみ＞                      Golemi (lit. Golemi, "female" Golem in love with Golemz)
-ロ-ドン＞                     (lit. Rordon)
+ロ-ドン＞                 Lordon    (lit. Rordon)
 
 
 アニキ＞Heady
@@ -173,6 +173,15 @@ goonin rooms:
 ボディ ル-ム＞BODY ROOM
 
 コゼニ＞      [lit. small change, probably a mini game]
+
+
+Nokke Woodsの奥  Nokke Woods Depths
+技の部屋 Skill Room
+心の部屋  Mind Room
+テキや / テキ屋   Enemy shop owner?
+
+ドン・モジャール Don Clawleone
+赤しっぽ  Red Tail
 
 DO NOT TOUCH THE TABLET TEXT WITHOUT WORKING IN THE WORKSHEET AND CHANGING ALL LINES.
 

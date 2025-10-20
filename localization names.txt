@@ -10,7 +10,6 @@
 ミオ・ロシタル＞Mio・Roshtar      (in original game it has english as Mio・Roshtar)
 シドもじゃ＞Ducktor Cid
 グラン＞Flanpa
-スラゾー＞Blubba
 ドラお＞Swotsy
 しんぷ＞Curate Rollo
 トミー＞ Tokyo Tom
@@ -18,22 +17,23 @@
 スラまる＞Goosashi
 ミイホン＞Hooly
 スラみ＞Bo
-おババ＞
 メラゾマ＞Kafrizzle
-バブルのやま＞Bubhill (this is one of the sumo wrestler slimes)
-オババ＞ Baba?, Obaba?
+バブルのやま＞ Count Calories (Bubhill, this is one of the sumo wrestler slimes)
+おスラ＞   Goopid  (Honorific slime, lit. O-Sura)
+オババ＞ Baba (Granny?, Gobaba?)
 ミイホンパパ＞Mr. Hooly
 ミイホンのママ＞Mrs. Hooly
-スラ-リン＞_____ Slarin
-スラ-リン8世＞_____ Slarin VIII
-ピロ＞Sacks (why??? this is a Jinkster right-hand to ムーン Moon)
-コ-チ＞Coach
+スラ-リン＞___Prince Pigummy (Slarin)
+スラ-リン8世＞_Prince Pigummy (Slarin VIII, (Slibert?))
+ピロ＞ Piro (Sacks? this is a Jinkster right-hand to ムーン Moon)
+コ-チ＞Coach  (not in the sequel)
 スッカ-のオニ＞Flanatic (?), Flanatic Baller (?) 
-スラネット＞GooNETte
+スラネット＞ Goozanna (GooNETte)
+ぱぱ	Big Daddy (lit. Papa)
+まま	Mama Mia (lit. Mama)
 
-
-コンペ-＞           Kanpai?, Compe? (there's a pun with "kanpai" (cheers) here)
-ガブリエル＞Goobriel
+コンペ-＞   Plopstar   (Kanpy, Konpei, Confetto, there's a pun with "kanpai" (cheers) here)
+ガブリエル＞ Fangummy Bob (Goobriel)
 
 すっとび調査団＞Goonin
 しっぽ団の 四天玉＞the 4 Plobsters?
@@ -44,9 +44,6 @@
 
 アンダの ズラ・ストッキング＞ (this is just a slime mispronouncing "your" and "Elastoblast")
 
-スッカ-＞Flanball
-
-つうしんたいせん＞LINK Battle
 
 ドキドキ! ツボくら～っしゅ!＞Urn Crash! PANIC!
 ドキツボ＞Urn PANIC (short-hand for the above)
@@ -59,85 +56,88 @@
 スラしょうりゅう＞Slashouryuu = Shoryuflan = street fighter reference (this is probably a debug/hidden name)
 スラフォード＞Flanford (this is also probably a debug/hidden name)
 
-ス-ラ＞            Surah (Sliiiii(me))
-スラック＞         (Sli(me) kku, Slack, Slick)
-スラゾ-＞          (Sli(me) + zor or japanese name ending)
-バブすけ＞         (Bubble + japanese name ending)
-ドラフィ-ユ＞Drafille
-テンシ-ラ＞        (pun of heaven + sheila)
-メカキチ＞         (mecha + kichi)
-ミニスラ＞         (mini sli(me))
-スラじろう＞       (old man-ish)
-スラニオ＞         (Slinnio)
-スラベル＞         (Slibelle, or Slibel as in Maribel)
-ファンファン＞     (Fan Fan)
-スラのせき＞       (slime + japanese name ending)
-スラト＞           (Sli(me) + tt)
-スラのすけ＞       (slime + japanese name ending)
-ホイミ-＞          (Healee)
-バブブ＞           (Bub-blu-blu)
-スラックス＞       (Slax?)
-スラきち＞         (Sli(me) + kichi)
-おスラ＞           (Honorific slime)
-スラエル＞         Slael, (Slirael)
-ツリッキ-＞        (Treeky, Tree + kki)
-グレン＞Goolen
-ぶちゴロウ＞       (mottle slime + japanese name ending)
-スラカンプ＞       (Sli(me) scramp or camp)
-マリン＞Shelley (see DQ6)
-ホイサッサ＞       (Hea(l) + liquid metal running away sound)
-ホイップル＞       (Hea(l) + ipple, whipple)
-スライワ-＞        (Sli(me) rock)
-ラスブ-チン＞Raspuddin (Rasputin)
-ツリろう＞         (Tree + japanese name ending)
-イワン＞           (Rock)
-くろりん＞         (Black + japanese name ending)
-ホ-ミィ＞          (Heeeeealy)
-バブルス＞         (Bubbles)
-ホイスケ＞         (Heal + (wh)iskey)
-ボ-グル＞          (Borgle)
-スラや＞           (Sliya)
-タイオ-＞          (Taiou)
-たまちゃん＞       (li'l egg)
-ミニン＞           (mini + n)
-スラげ＞           (slime + japanese name ending, Sli-geh)
-バブりん＞         (Bub(ble) + japanese name ending "rin", Bubblin)
-エッグル＞         (Eggle)
-ぶちザベス＞       (Mottle + (eli)sabeth)
+ス-ラ＞   Gootrude   (Slura, Sliiiii(me), Surah?)
+スラック＞    Goolia    (Sli(me) kku, Slack, Slick, Sluck )
+スラゾ-＞   (Baron) Blubba  (Slazo, Sli(me) + zor or japanese name ending)
+バブすけ＞     Bubbilly     (Bubble + japanese name ending, "Babusuke")
+ドラフィ-ユ＞Peewee   (Drafille)
+テンシ-ラ＞  Goobrielle (pun of heaven + sheila, Angelia, Angelra) -> Anjello (grey)?
+メカキチ＞  Roboglop (mecha + kichi)
+ミニスラ＞    Itsy (mini sli(me))
+スラじろう＞    Pebbles   (old man-ish, "surajiro")
+スラニオ＞  Slanio (Slinnio?, not in the sequel?)
+スラベル＞    Curedon Bleu     (Slibelle, or Slibel as in Maribel)
+ファンファン＞  Clawdia  (Fan Fan)
+スラのせき＞   Duke Swellington   (Slumo, slime + japanese name ending, Sumo?)
+スラト＞     George  (Sli(me) + tt, Slato)
+スラのすけ＞ Perry (Slimey, slime + japanese name ending)
+ホイミ-＞  Namby   (Healee, Healie, lit. Hoimi, Healie Jr.)
+ホ-ミィ＞   Pamby  (Healy, Heeeeealy, Heealy)
+ホイスケ＞  Dummy   (Heal + (wh)iskey, Healsby)
+バブブ＞   Mag Max  (Bubblet, Bub-blu-blu)
+スラックス＞   Shelby (Slax)
+スラきち＞   Splodgy Dave  (Sli(me) + kichi, Goodwin)
+スラエル＞  Rustle Sprout        (Slael, Slirael)
+ツリッキ-＞  Bud   (Treeky, Tree + kki)
+グレン＞Drake (Goolen)
+スラカンプ＞  Merc      (Slacamp, Sli(me) scramp or camp)
+マリン＞  Winkles (Shelley, see DQ6)
+ホイサッサ＞ Curator  (Hea(l) + liquid metal running away sound)
+ホイップル＞ Sheala (Hea(l) + ipple, Whipple, Whippy)
+スライワ-＞  Stony  (Sli(me) rock)
+ラスブ-チン＞Splatrick (Rasputin, Raspuddin)
+ツリろう＞   Flantenna (Tree + japanese name ending)
+テキや>  Wild Fang  (Vendor?)
+イワン＞  Rocky    (Rock?, Ivan)
+くろりん＞   Count Dragoola (Black + japanese name ending, Blacky?)
+バブルス＞  Lord Lard (Bubbles)
+バブべえ＞   Viscount Viscous  (Bubble + beh, Bubba)
+ボ-グル＞  Slimechanic  (Borgle, Boggle)
+スラや＞  Dragory   (lit. Sliya, Slyme)
+タイオ-＞  Early Burly   (Kingpin, Taiou)
+たまちゃん＞  Gregg (li'l egg)
+ミニン＞   Minin  (mini + n, not in the sequel?)
+スラげ＞   Sliborg  (slime + japanese name ending, Sli-geh, Geezer)
+バブりん＞  Soapia  (Bub(ble) + japanese name ending "rin")
+スライフ>   Cheruboing  (Slife)
+エッグル＞     Eggbard   (Eggle)
+ぶちザベス＞  Spot (Mottle + (eli)sabeth)
+スラムリン     Frankenslime  (Slamblin)
 スマリン＞         (Sli-marine)
-ボ-グン＞          (Borgoon)
-ハガネンダ-＞      (Haganender)
-ホイミィ＞         (Healiiiie)
-ブッチモンド＞     (Mottle + mond)
-ゴルド＞           (Gold)
-エンゼリカ＞Angelica
-スクラテス＞       (Sli(me)ocrates)
-ブチのすけ＞       (Mottle + japanese name ending)
-バブル-ノ＞        (Bubbloono)
-スラダ-ク＞        (Sli(me) dark)
-オイスラ-＞        (Heasli(me)r)
-メテお＞           Meteor (Mete + o) https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Meteor%20Slime&pickedidx=3979
-マダラン＞         (Madaran)
-スラボックル＞     (Sli(me) Bokkle)
-シルバ＞           (Silver)
-エッグ-ナ＞        (Egguna)
-ゴ-ルドベリー＞    (Goldberry)
-ぶっちい＞         (Spotty, Mottle + small)
-ミニ-＞            (Mini, Minny, Minnie)
-ドラゴ-ネ＞        (Dragorn, Drago + rne)
-ぶちじぃ＞         (Mottle + old man)
-スラッサ-＞        (Sli(me) + liquid metal running away)
-ホイ-チェ＞        (Heal + chie)
-エッグリ-ン＞      (Eggleen)
-ホイミコ＞         (Healko, Healkid, Heala Heal + japanese girl name ending)
-ロック＞           (Rock)
-スラワ-＞          (Sli(me) + (flo)wer)
-ツムツム＞         
-バブべえ＞         (Bubble + beh)
-ボギ-＞            (Bogie)
-ファングリオ＞     (Fangrio)
-スラジョ-＞        (Sli(me) + jor, Slijor)
-プッチ-ナ＞        (Platina)
+ボ-グン＞          Sliminator (Borgoon, Boogun?)
+ハガネンダ-＞     Earl Luminem (Haganender)
+ホイミィ＞      Healii   (Healiiiie, not in the sequel?)
+ブッチモンド＞   Poxie  (Mottle + mond, Richmond)
+ゴルド＞     Jewelian  (Goldie)
+エンゼリカ＞Angelica (not in the sequel)
+スクラテス＞    Blingaling  (Sli(me)ocrates, Slocrates, Socrates)
+バブル-ノ＞    Sir Sudsy   (Bubbloono)
+スラダ-ク＞  Diablob (Sli(me) dark,  Gloomy)
+オイスラ-＞  Michelle   (Heasli(me)r, Heasler, Oyster?)
+メテお＞           Starthur (Mete + o) https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Meteor%20Slime&pickedidx=3979
+マダラン＞    Goochie       (Madaran)
+スラボックル＞   Teeny (Sli(me) Bokkle, Weeper, Slibokkle )
+シルバ＞        Crystal Chronicler  (Silver)
+エッグ-ナ＞        Egguna  (not in the sequel)
+ゴ-ルドベリー＞  Flan Spinel  (Goldberry)
+ぶちゴロウ＞ Patch (Patches, mottle slime + japanese name ending)
+ブチのすけ＞   Speckles  (Spotson, Mottle + japanese name ending, lit. "Buchinosuke")
+ぶっちい＞        Patchy (Mottle + small,  Spotty) ->same sprite as Speckles?
+ミニ-＞      Weeny      (Minny, Mini, Minnie)  -> swap with Teeny?
+ドラゴ-ネ＞      Dragorn (Drago + rne, Dragoon?, not in the sequel)
+ブチじぃ>  ぶちじぃ＞     Flopsy    (Gramps, Mottle + old man)
+
+スラッサ-＞   Goodith    (Slasher, Sli(me) + liquid metal running away)
+ホイ-チェ＞    Tickled Pink    (Cherry, Heal + chie)
+エッグリ-ン＞     Meggan (Eggleen, Eggreen?)
+ホイミコ＞     Tickles    (Healina, Healko, Healkid, Heala Heal + japanese girl name ending)
+ロック＞     Kworry      (Rock)
+スラワ-＞   Sliwer  (Sli(me) + (flo)wer, not in the sequel)
+ツムツム＞         Stacky (lit. Tsum Tsum, not in the sequel)
+ボギ-＞           Bogey (Bogie, not in the sequel)
+ファングリオ＞   Clawrence (Fangrio, Fang?)
+スラジョ-＞    Goofrey    (Sli(me) + jor, Slijor?)
+プッチ-ナ＞    Platina  (Patrina?)
 
 スライムファング＞Slime Fang
 あおスライム＞Blue Slime
@@ -147,41 +147,55 @@
 
 
 
-モエ-ル＞Fiery (lit. Moeru)
-ヒエ-ル＞Freezy (lit. Hieru)
-ドラハルトJR＞       Draku Jr  (lit. Drahart JR, but I think "Draku Jr" makes sense because of Drakulard)
-ギガお＞                      Gigaa (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)  https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Gigaa&pickedidx=5745
-ゴレムズ＞           Golemz   (lit. Golemz, "male" Golem robot piloted by a Platypunk)
-バットン＞                    Batton, Vladiator? (lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
-ゴれみ＞                      Golemi (lit. Golemi, "female" Golem in love with Golemz)
-ロ-ドン＞                 Lordon    (lit. Rordon)
+モエ-ル＞Flamethrower (Fiery, lit. Moeru)
+ヒエ-ル＞Blizzybody (lit. Hieru, Freezy)
+ドラハルトJR＞      Small fry  ( Draku Jr, lit. Drahart JR, but I think "Draku Jr" makes sense because of Drakulard)
+ギガお＞            Gigantes (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)  https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Gigaa&pickedidx=5745
+ゴレムス, ゴレムズ＞           Stone Golem   (lit. Golemz, "male" Golem robot piloted by a Platypunk)
+バットン＞           Vladdy  (Batton. lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
+(ゴれみ＞                      Golemi? (lit. Golemi, "female" Golem in love with Golemz))
+ロ-ドン＞                Wyrtoise  (lit. Rordon)
+ム-ン>   Moon
 
-
-アニキ＞Heady
+アニキ＞Wiseguy   (Heady, Boss)
 こぶん＞Taily                 (lit. minion)
-モジャラン＞                  (lit. Mojaran, Plakran?)
-モチャゴ＞                    (lit. Mochago, Plago?)
-モジャオ＞                    (lit. Mojao, Plagio?)
-モジャピン＞                  (lit. Mojapin, Plappin?)
-モチャコ＞                    (lit. Mochako, girl, in love with Golemi, Plako?)
 
-
-goonin rooms:
-
-心の部屋＞Spirit Room
-技の部屋＞Skill Room
-ボディ ル-ム＞BODY ROOM
-
-コゼニ＞      [lit. small change, probably a mini game]
-
-
-Nokke Woodsの奥  Nokke Woods Depths
-技の部屋 Skill Room
-心の部屋  Mind Room
-テキや / テキ屋   Enemy shop owner?
+モジャラン＞  Plakran  (lit. Mojaran)
+モチャゴ＞     Plago (lit. Mochago)
+モジャオ＞     Plajo (lit. Mojao, Plagio?)
+モジャピン＞   Plappin  (lit. Mojapin)
+モチャこ＞      Plako   (lit. Mochako, girl, in love with Golemi, Plako?)
 
 ドン・モジャール Don Clawleone
 赤しっぽ  Red Tail
 
+
+goonin rooms:
+
+    心の部屋＞Mind Room / Spirit Room
+    技の部屋＞Skill Room
+    ボディ ル-ム＞BODY ROOM
+
+ブッチ-ナ	  Patchina (Patrina, Platina)
+コゼニ＞      [lit. small change, probably a mini game]
+ドキツボ sign  (Doki Pot / Heart Jar)
+
+
+Nokke Woodsの奥  Nokke Woods Depths
+
+
+テキや / テキ屋    Battle Arena
+スッカ-＞Flanball (Soccer?)
+つうしんたいせん＞LINK Battle
+
+
 DO NOT TOUCH THE TABLET TEXT WITHOUT WORKING IN THE WORKSHEET AND CHANGING ALL LINES.
 
+references:
+
+ - http://hooly.web.fc2.com/suramori_ts.html
+ - https://www.realmofdarkness.net/dq/ds-rs-characters/
+ - https://dragon-quest.org/w/index.php?title=List_of_slimes_in_Dragon_Quest_Heroes:_Rocket_Slime
+ - https://dragon-quest.org/wiki/Slime_MoriMori_Dragon_Quest:_Shougeki_no_Shippo_Dan
+ - https://www.woodus.com/den/games/slimedq2/rescued_slimes.php
+ - https://archive.org/details/DragonQuestHeroesRocketSlimeMookOfficialGuide

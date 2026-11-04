@@ -27,7 +27,7 @@
 スラ-リン8世＞_Prince Pigummy (Slarin VIII, (Slibert?))
 ピロ＞ Piro (Sacks? this is a Jinkster right-hand to ムーン Moon)
 コ-チ＞Coach  (not in the sequel)
-スッカ-のオニ＞Flanatic (?), Flanatic Baller (?) 
+スッカ-のオニ＞Flanatic (Flanatic Baller, lit. Sukka Oni) 
 スラネット＞ Goozanna (GooNETte)
 ぱぱ	Big Daddy (lit. Papa)
 まま	Mama Mia (lit. Mama)
@@ -61,7 +61,7 @@
 スラゾ-＞   (Baron) Blubba  (Slazo, Sli(me) + zor or japanese name ending)
 バブすけ＞     Bubbilly     (Bubble + japanese name ending, "Babusuke")
 ドラフィ-ユ＞Peewee   (Drafille)
-テンシ-ラ＞  Goobrielle (pun of heaven + sheila, Angelia, Angelra) -> Anjello (grey)?
+テンシ-ラ＞  Goobrielle (pun of heaven + sheila, Angelia, Angelra)
 メカキチ＞  Roboglop (mecha + kichi)
 ミニスラ＞    Itsy (mini sli(me))
 スラじろう＞    Pebbles   (old man-ish, "surajiro")
@@ -96,7 +96,7 @@
 スラや＞  Dragory   (lit. Sliya, Slyme)
 タイオ-＞  Early Burly   (Kingpin, Taiou)
 たまちゃん＞  Gregg (li'l egg)
-ミニン＞   Minin  (mini + n, not in the sequel?)
+ミニン＞   Weeny  (mini + n, is blue in the sequel, not green)
 スラげ＞   Sliborg  (slime + japanese name ending, Sli-geh, Geezer)
 バブりん＞  Soapia  (Bub(ble) + japanese name ending "rin")
 スライフ>   Cheruboing  (Slife)
@@ -106,10 +106,10 @@
 スマリン＞         (Sli-marine)
 ボ-グン＞          Sliminator (Borgoon, Boogun?)
 ハガネンダ-＞     Earl Luminem (Haganender)
-ホイミィ＞      Healii   (Healiiiie, not in the sequel?)
+ホイミィ＞      Healy   (Healiiiie, not in the sequel?)
 ブッチモンド＞   Poxie  (Mottle + mond, Richmond)
 ゴルド＞     Jewelian  (Goldie)
-エンゼリカ＞Angelica (not in the sequel)
+エンゼリカ＞Anjello (Angelica)
 スクラテス＞    Blingaling  (Sli(me)ocrates, Slocrates, Socrates)
 バブル-ノ＞    Sir Sudsy   (Bubbloono)
 スラダ-ク＞  Diablob (Sli(me) dark,  Gloomy)
@@ -123,7 +123,7 @@
 ぶちゴロウ＞ Patch (Patches, mottle slime + japanese name ending)
 ブチのすけ＞   Speckles  (Spotson, Mottle + japanese name ending, lit. "Buchinosuke")
 ぶっちい＞        Patchy (Mottle + small,  Spotty) ->same sprite as Speckles?
-ミニ-＞      Weeny      (Minny, Mini, Minnie)  -> swap with Teeny?
+ミニ-＞      Bitsy      (Minny, Mini, Minnie) 
 ドラゴ-ネ＞      Dragorn (Drago + rne, Dragoon?, not in the sequel)
 ブチじぃ>  ぶちじぃ＞     Flopsy    (Gramps, Mottle + old man)
 
@@ -145,7 +145,7 @@
 むらさきスライム＞Violet Slime
 みどりスライム＞Green Slime
 
-
+ガメゴン> Wyrtle  (Tortragon)
 
 モエ-ル＞Flamethrower (Fiery, lit. Moeru)
 ヒエ-ル＞Blizzybody (lit. Hieru, Freezy)
@@ -153,7 +153,7 @@
 ギガお＞            Gigantes (lit. GIGA-O, okess has been localizing speech as GRUG-UG so maybe something like GRUG?)  https://www.woodus.com/den/resources/global-bestiary-result.php?pickedname=Gigaa&pickedidx=5745
 ゴレムス, ゴレムズ＞           Stone Golem   (lit. Golemz, "male" Golem robot piloted by a Platypunk)
 バットン＞           Vladdy  (Batton. lit. "Bat"ton pun on Bat for vampire bat.) https://www.woodus.com/den/games/slimedq/monsters-details.php?mid=251063&mname=Button
-(ゴれみ＞                      Golemi? (lit. Golemi, "female" Golem in love with Golemz))
+ゴレみ, ゴれみ＞    Golemi (lit. Golemi, "female" Golem in love with Golemz))
 ロ-ドン＞                Wyrtoise  (lit. Rordon)
 ム-ン>   Moon
 
@@ -180,14 +180,16 @@ goonin rooms:
 コゼニ＞      [lit. small change, probably a mini game]
 ドキツボ sign  (Doki Pot / Heart Jar)
 
+locations/places:
+    Nokke Woodsの奥  Nokke Woods Depths
 
-Nokke Woodsの奥  Nokke Woods Depths
+    テキや / テキ屋    Battle Arena
+    スッカ-＞Flanball (Soccer?)
+    つうしんたいせん＞LINK Battle
 
+items:
 
-テキや / テキ屋    Battle Arena
-スッカ-＞Flanball (Soccer?)
-つうしんたいせん＞LINK Battle
-
+    しあわせのサイフ    Fortune Wallet
 
 DO NOT TOUCH THE TABLET TEXT WITHOUT WORKING IN THE WORKSHEET AND CHANGING ALL LINES.
 
@@ -198,4 +200,5 @@ references:
  - https://dragon-quest.org/w/index.php?title=List_of_slimes_in_Dragon_Quest_Heroes:_Rocket_Slime
  - https://dragon-quest.org/wiki/Slime_MoriMori_Dragon_Quest:_Shougeki_no_Shippo_Dan
  - https://www.woodus.com/den/games/slimedq2/rescued_slimes.php
+ - https://www.woodus.com/den/games/slimedq2/monsters.php
  - https://archive.org/details/DragonQuestHeroesRocketSlimeMookOfficialGuide
